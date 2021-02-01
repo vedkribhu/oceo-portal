@@ -1,4 +1,4 @@
 # oceo-portal
 
-## yarn dev 
+## $ yarn dev 
  - To start the server on https://localhost:3000
